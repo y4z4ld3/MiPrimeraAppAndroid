@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yazalde/AndroidStudioProjects/MiPrimeraAppAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/home/yazalde/AndroidStudioProjects/MiPrimeraAppAndroid/app/src/main/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,161,110",
+                        "endColumns": "54,46,50",
+                        "endOffsets": "105,203,156"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,157",
+                        "endColumns": "54,46,50",
+                        "endOffsets": "105,152,203"
+                    }
+                }
+            ]
+        }
+    ]
+}

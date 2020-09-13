@@ -1,0 +1,4 @@
+#Sat Sep 12 10:54:20 ECT 2020
+base.0=/home/yazalde/AndroidStudioProjects/MiPrimeraAppAndroid/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
